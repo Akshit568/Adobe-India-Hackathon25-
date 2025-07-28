@@ -1,0 +1,250 @@
+{
+  "title": "위키백과:보호정책",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "위키백과보호정책",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "로그인하지않았거나,사용자등록후30일,최소편집500회",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "위키백과관리",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "가되지않는사용자에대해문서편집을하지못하게하는기",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "능입니다.관리자",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "알림판",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "준보호",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(semi-protection)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "선거(절차,기록)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "있습니다",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": ".생성보호",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "내용에관한논쟁이있는문서를보호할때,문서훼손이나저작권침해,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "생존인물에대한명예훼손등의정책에반하는경우가아니라면관리자",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "이동보호",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "는현재의내용상태를보호합니다현재상태가편집분쟁의결과를반영",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "하고있다면편집분쟁이일어나기전상태로되돌릴수도있습니다문",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": ",.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "관리자를위한길잡이",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "관리자는문서훼손이반복되거나생존인물의전기나중립적시각등에대한정책위반이일어나는경우",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "영구적으로문서를준보호할수있습니다실제로문서훼손이일어나지않았는데문서훼손이일어날",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "“”.,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "수있다는이유만으로미리적용되어서는안되며,신규사용자와비등록사용자사이의(정상적인)편집",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "분쟁을막기위한수단으로사용되어서는안됩니다.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "완전보호되는문서는동시에이동보호도적용됩니다",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "완전보호와마찬가지로,관리자는자신의선호에의해보호를하는것을피해야하며,이동보호가현재",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "의문서제목에대한지지표명이되어서는안됩니다뻔한예외이겠지만문서이동훼손에대해서는이",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": ".,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "규칙은적용되지않습니다",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "연쇄적보호",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "연쇄적보호는해당문서를완전보호하고동시에틀과그림등해당문서에직간접적으로",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": ",·",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "불러들여보여지는모든문서를보호합니다연쇄적보호는위키미디어공용에저장되어있",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "는파일에는영향을주지않습니다해당그림을보호하려면한국어위키백과에복사본을",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": ".,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "올리거나,위키미디어공용의파일을보호해야합니다.연쇄적보호는대문처럼널리노출되",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "는내용에대한문서훼손을막기위해서만사용해야합니다.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "이름공간별보호",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "토론",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "보호된틀은대개설명문서틀이붙어있습니다이틀은해당틀의설명문서를불러서보여주며일",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "{{}}./,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "반사용자나비등록사용자가자유롭게설명을고치거나분류인터위키등을추가할수있습니다또한",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": ",,.,",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "틀설명문서는보호된틀에대해{{보호-틀}}틀을불러,오른쪽위에자물쇠표시를보여주고,보호된틀",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "분류로자동으로분류합니다.{{보호-틀}}틀은{{설명문서}}를사용하지않는틀(대부분아주간단한",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "틀)에만사용합니다.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "각주",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.메타의공적행위문서:Administrators,whohavethetechnicalpowertoundoprotectionsand",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "deletions,arestronglycautionedagainstmodifyingtheseedits.Officialstatementsandpast",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "incidentsindicatethatsuchunauthorizedmodificationswillbeactivelyreverted,andpossibly",
+      "page": 9
+    }
+  ]
+}
