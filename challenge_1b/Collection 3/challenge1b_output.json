@@ -1,0 +1,1545 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T20:47:51.449016"
+    },
+    "extracted_sections": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Fruit and Nut Bars",
+            "importance_rank": 1
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Pancakes",
+            "importance_rank": 2
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Scrambled Eggs",
+            "importance_rank": 3
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 2,
+            "section_title": "French Toast",
+            "importance_rank": 4
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 3,
+            "section_title": "• 1/2 teaspoon ground cinnamon",
+            "importance_rank": 5
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Smoothie Bowl",
+            "importance_rank": 6
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Avocado Toast",
+            "importance_rank": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Breakfast Burrito",
+            "importance_rank": 8
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 4,
+            "section_title": "• 1/4 cup cooked sausage or bacon",
+            "importance_rank": 9
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 4,
+            "section_title": "Oatmeal",
+            "importance_rank": 10
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 4,
+            "section_title": "Yogurt Parfait",
+            "importance_rank": 11
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Breakfast Sandwich",
+            "importance_rank": 12
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Chia Pudding",
+            "importance_rank": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Breakfast Quesadilla",
+            "importance_rank": 14
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 6,
+            "section_title": "Content Block 14 (Page 6)",
+            "importance_rank": 15
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 6,
+            "section_title": "Banana Bread",
+            "importance_rank": 16
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 6,
+            "section_title": "Breakfast Tacos",
+            "importance_rank": 17
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Granola Bars",
+            "importance_rank": 18
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Smoothie",
+            "importance_rank": 19
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Breakfast Pizza",
+            "importance_rank": 20
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Instructions:",
+            "importance_rank": 21
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Muﬃns",
+            "importance_rank": 22
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Breakfast Casserole",
+            "importance_rank": 23
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 9,
+            "section_title": "• Salt and pepper to taste",
+            "importance_rank": 24
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Bagel with Cream Cheese",
+            "importance_rank": 25
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Breakfast Skillet",
+            "importance_rank": 26
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Breakfast Bowl",
+            "importance_rank": 27
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Breakfast Croissant",
+            "importance_rank": 28
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Breakfast Frittata",
+            "importance_rank": 29
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 11,
+            "section_title": "• 1/4 cup diced onion",
+            "importance_rank": 30
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 11,
+            "section_title": "Breakfast Bagel Sandwich",
+            "importance_rank": 31
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 11,
+            "section_title": "Overnight Oats",
+            "importance_rank": 32
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Content Block 33 (Page 12)",
+            "importance_rank": 33
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Egg Muﬃns",
+            "importance_rank": 34
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Apple Peanut Butter Sandwiches",
+            "importance_rank": 35
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Protein Smoothie",
+            "importance_rank": 36
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Content Block 37 (Page 13)",
+            "importance_rank": 37
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Cottage C heese and Fruit",
+            "importance_rank": 38
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Veggie Wrap",
+            "importance_rank": 39
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Almond Butter Banana Toast",
+            "importance_rank": 40
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 14,
+            "section_title": "• Top with banana slices and sprinkle with chia seeds.",
+            "importance_rank": 41
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 14,
+            "section_title": "Greek Yogurt with Honey and Nuts",
+            "importance_rank": 42
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 14,
+            "section_title": "Avocado and Egg Toast",
+            "importance_rank": 43
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 14,
+            "section_title": "Quinoa Breakfast Bowl",
+            "importance_rank": 44
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Berry and Spinach Smoothie",
+            "importance_rank": 45
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Peanut Butter and Banana Smoothie",
+            "importance_rank": 46
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 16,
+            "section_title": "Cottage Cheese and Veggie Bowl",
+            "importance_rank": 47
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 16,
+            "section_title": "Almond Butter and Apple Slices",
+            "importance_rank": 48
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 2,
+            "section_title": "Beef Stroganoff",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 2,
+            "section_title": "Chicken Parmesan",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 3,
+            "section_title": "Content Block 3 (Page 3)",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 3,
+            "section_title": "Spaghetti Bolognese",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 3,
+            "section_title": "Teriyaki Chicken",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "section_title": "• Sliced green onions for garnish",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "section_title": "Shrimp Scampi",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "section_title": "Beef Tacos",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 5,
+            "section_title": "Content Block 9 (Page 5)",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 5,
+            "section_title": "Lasagna",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 5,
+            "section_title": "Chicken Alfredo",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 6,
+            "section_title": "• 2 cloves garlic, minced",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 6,
+            "section_title": "Shepherd's Pie",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 7,
+            "section_title": "• 8 ounces rice noodles",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 7,
+            "section_title": "Beef Bourguignon",
+            "importance_rank": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 8,
+            "section_title": "Content Block 17 (Page 8)",
+            "importance_rank": 16
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 8,
+            "section_title": "Chicken Cacciatore",
+            "importance_rank": 17
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 8,
+            "section_title": "Chicken Marsala",
+            "importance_rank": 18
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 9,
+            "section_title": "Instructions:",
+            "importance_rank": 19
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 9,
+            "section_title": "Chicken Tikka Masala",
+            "importance_rank": 20
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 10,
+            "section_title": "• 2 large eggplants, sliced",
+            "importance_rank": 21
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 10,
+            "section_title": "Fish Tacos",
+            "importance_rank": 22
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 11,
+            "section_title": "General Tso's Chicken",
+            "importance_rank": 23
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 11,
+            "section_title": "Greek Moussaka",
+            "importance_rank": 24
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 12,
+            "section_title": "Content Block 27 (Page 12)",
+            "importance_rank": 25
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 12,
+            "section_title": "Jambalaya",
+            "importance_rank": 26
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 12,
+            "section_title": "Lamb Curry",
+            "importance_rank": 27
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 13,
+            "section_title": "• 1 tablespoon grated ginger",
+            "importance_rank": 28
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 13,
+            "section_title": "Lemon Herb Salmon",
+            "importance_rank": 29
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 14,
+            "section_title": "• 1 pound ground beef",
+            "importance_rank": 30
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 14,
+            "section_title": "Paella",
+            "importance_rank": 31
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 15,
+            "section_title": "Content Block 35 (Page 15)",
+            "importance_rank": 32
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 15,
+            "section_title": "Pork Chops with Apples",
+            "importance_rank": 33
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 15,
+            "section_title": "Ratatouille",
+            "importance_rank": 34
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 1,
+            "section_title": "• 1 teaspoon thyme",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 1,
+            "section_title": "Roast Chicken",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 1,
+            "section_title": "Shrimp and Grits",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "section_title": "• 1/4 cup bacon, chopped",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "section_title": "Spaghetti Carbonara",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "section_title": "Stuffed Bell Peppers",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 3,
+            "section_title": "• 1 cup shredded cheese",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 3,
+            "section_title": "Sweet and Sour Pork",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 3,
+            "section_title": "Tandoori Chicken",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 4,
+            "section_title": "• 1/4 teaspoon cayen ne pepper",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 4,
+            "section_title": "Thai Green Curry",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 4,
+            "section_title": "Turkey Meatballs",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 5,
+            "section_title": "• 1/4 cup grated Parmesan cheese",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 5,
+            "section_title": "Vegetable Stir -Fry",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 5,
+            "section_title": "Vietnamese Pho",
+            "importance_rank": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 6,
+            "section_title": "• 1 small onion, sliced",
+            "importance_rank": 16
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 6,
+            "section_title": "Yakitori",
+            "importance_rank": 17
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 6,
+            "section_title": "Zucchini Noodles with Pesto",
+            "importance_rank": 18
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 7,
+            "section_title": "• 1/2 cup basil pesto",
+            "importance_rank": 19
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 7,
+            "section_title": "Beef and Broccoli",
+            "importance_rank": 20
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 7,
+            "section_title": "Chicken Fajitas",
+            "importance_rank": 21
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 8,
+            "section_title": "• 2 tablespoons vegetable oil",
+            "importance_rank": 22
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 8,
+            "section_title": "Chicken Piccata",
+            "importance_rank": 23
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 8,
+            "section_title": "Chicken Pot Pie",
+            "importance_rank": 24
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 9,
+            "section_title": "• 1 teaspoon thyme",
+            "importance_rank": 25
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 9,
+            "section_title": "Chicken Stir -Fry",
+            "importance_rank": 26
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 10,
+            "section_title": "Ingredients:",
+            "importance_rank": 27
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 10,
+            "section_title": "Crab Cakes",
+            "importance_rank": 28
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 11,
+            "section_title": "Content Block 30 (Page 11)",
+            "importance_rank": 29
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 11,
+            "section_title": "Enchiladas",
+            "importance_rank": 30
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 11,
+            "section_title": "Fettuccine Alfredo",
+            "importance_rank": 31
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 12,
+            "section_title": "• Cook fettuccine according to package instructions.",
+            "importance_rank": 32
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 12,
+            "section_title": "Fish and Chips",
+            "importance_rank": 33
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 12,
+            "section_title": "Grilled Cheese Sandwich",
+            "importance_rank": 34
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 13,
+            "section_title": "Content Block 36 (Page 13)",
+            "importance_rank": 35
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 13,
+            "section_title": "Grilled Salmon",
+            "importance_rank": 36
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 13,
+            "section_title": "Grilled Shrimp Skewers",
+            "importance_rank": 37
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 14,
+            "section_title": "• 4 lamb chops",
+            "importance_rank": 38
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 14,
+            "section_title": "Lobster Tail",
+            "importance_rank": 39
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 14,
+            "section_title": "Osso Buco",
+            "importance_rank": 40
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 15,
+            "section_title": "• 2 cups beef broth",
+            "importance_rank": 41
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 15,
+            "section_title": "Pad See Ew",
+            "importance_rank": 42
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "section_title": "Content Block 1 (Page 1)",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "section_title": "Peking Duck",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "section_title": "Pork Schnitzel",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 2,
+            "section_title": "Quiche Lorraine",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 2,
+            "section_title": "Ramen",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 3,
+            "section_title": "Roast Beef",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 3,
+            "section_title": "Salmon en Papillote",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 4,
+            "section_title": "Baked Ziti",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 4,
+            "section_title": "Butter Chicken",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 5,
+            "section_title": "Content Block 10 (Page 5)",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 5,
+            "section_title": "Chili Con Carne",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 5,
+            "section_title": "Gnocchi with Sage Butter",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 6,
+            "section_title": "• Cook gnocchi according to package instructions, then drain.",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 6,
+            "section_title": "Honey Garlic Pork Ribs",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 6,
+            "section_title": "Moroccan Chicken Tagine",
+            "importance_rank": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 7,
+            "section_title": "• Chopped parsley for garnish",
+            "importance_rank": 16
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 7,
+            "section_title": "Mushroom Risotto",
+            "importance_rank": 17
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 7,
+            "section_title": "Pulled Pork Sandwiches",
+            "importance_rank": 18
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 8,
+            "section_title": "• 1 cup barbecue sauce",
+            "importance_rank": 19
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 8,
+            "section_title": "Stuffed Chicken Breasts",
+            "importance_rank": 20
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 8,
+            "section_title": "Vegetable Lasagna",
+            "importance_rank": 21
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 9,
+            "section_title": "• 1 bell pepper, diced",
+            "importance_rank": 22
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 4,
+            "section_title": "• Instructions :",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 5,
+            "section_title": "o Oil for frying",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 2,
+            "section_title": "Acarajé",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 3,
+            "section_title": "o Add potatoes and cauliflower, stir to coat with spices.",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 6,
+            "section_title": "o 1 teaspoon salt",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 7,
+            "section_title": "o 1 pound okra",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 8,
+            "section_title": "o 2 cloves garlic",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 9,
+            "section_title": "Content Block 8 (Page 9)",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 10,
+            "section_title": "o 1 small onion",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 11,
+            "section_title": "o Pour in chicken broth and bring to a boil.",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 12,
+            "section_title": "o 2-3 Thai chilies",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 13,
+            "section_title": "o 1 small onion",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 14,
+            "section_title": "• Instructions :",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 15,
+            "section_title": "o 2 tablespoons honey",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 7,
+            "section_title": "o 1 teaspoon paprika",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 1,
+            "section_title": "Churros",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 2,
+            "section_title": "Cornbread",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 3,
+            "section_title": "o 2 tablespoons butter",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 4,
+            "section_title": "o Rinse lentils and cook in water until tender.",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 5,
+            "section_title": "o 1/2 cup chopped cabbage",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 6,
+            "section_title": "Egg Rolls",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 8,
+            "section_title": "o Drain on paper towels and serve.",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 9,
+            "section_title": "• Instructions :",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 10,
+            "section_title": "o 1/4 cup olive oil",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 11,
+            "section_title": "o 1/2 cup diced carrots",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 12,
+            "section_title": "o Preheat oven to 375°F (190°C).",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 13,
+            "section_title": "o 1 package rice paper wrappers",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 14,
+            "section_title": "Content Block 14 (Page 14)",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 15,
+            "section_title": "o 1 small onion",
+            "importance_rank": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 12,
+            "section_title": "Msemen",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 2,
+            "section_title": "Hummus",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 13,
+            "section_title": "Content Block 13 (Page 13)",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 1,
+            "section_title": "o 2 cloves garlic",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 3,
+            "section_title": "o 1/4 cup olive oil",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 4,
+            "section_title": "Kachumbari",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 5,
+            "section_title": "• Instructions :",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 6,
+            "section_title": "Kimchi",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 7,
+            "section_title": "Larb",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 8,
+            "section_title": "o 1 teaspoon paprika",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 9,
+            "section_title": "Mandazi",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 10,
+            "section_title": "Content Block 10 (Page 10)",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 11,
+            "section_title": "o 1 can diced tomatoes",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 14,
+            "section_title": "o 2 cloves garlic",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 15,
+            "section_title": "Content Block 15 (Page 15)",
+            "importance_rank": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 1,
+            "section_title": "o Scramble eggs in the same pan.",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 2,
+            "section_title": "o 1 teaspoon salt",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 3,
+            "section_title": "o 1/2 cup tomato sauce",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 4,
+            "section_title": "o 4 tomatoes",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 5,
+            "section_title": "o Stir in butter and Parmesan cheese.",
+            "importance_rank": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "section_title": "o 1 carrot",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 7,
+            "section_title": "o Preheat oven to 375°F ( 190°C).",
+            "importance_rank": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 8,
+            "section_title": "o 1 teaspoon rosem ary",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 9,
+            "section_title": "o 1 teaspoon salt",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 10,
+            "section_title": "o Chill until set.",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 11,
+            "section_title": "o 1/4 cup vinegar",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 12,
+            "section_title": "Salpicão",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 13,
+            "section_title": "o 1 teaspoon garam masala",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 14,
+            "section_title": "o 4 tomatoes",
+            "importance_rank": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 15,
+            "section_title": "o Serve as a dip or side dish.",
+            "importance_rank": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Chicken Caesar Wrap",
+            "importance_rank": 1
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Quinoa Salad",
+            "importance_rank": 2
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Turkey and Avocado Sandwich",
+            "importance_rank": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Greek Yogurt Parfait",
+            "importance_rank": 4
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Hummus and Veggie Pita",
+            "importance_rank": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Tuna Salad",
+            "importance_rank": 6
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 4,
+            "section_title": "Caprese Sandwich",
+            "importance_rank": 7
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 4,
+            "section_title": "Chicken Salad Lettuce Wraps",
+            "importance_rank": 8
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 4,
+            "section_title": "Veggie and Hummus Wrap",
+            "importance_rank": 9
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 5,
+            "section_title": "• 1/4 cup shredded carrots",
+            "importance_rank": 10
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Egg Salad Sandwich",
+            "importance_rank": 11
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Pasta Salad",
+            "importance_rank": 12
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 6,
+            "section_title": "• 1 cup cooked chicken breast, diced",
+            "importance_rank": 13
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 6,
+            "section_title": "Turkey and Cheese Roll -Ups",
+            "importance_rank": 14
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 6,
+            "section_title": "Mediterranean Chickpea Salad",
+            "importance_rank": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Chicken and Veggie Stir -Fry",
+            "importance_rank": 16
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Shrimp and Avocado Salad",
+            "importance_rank": 17
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Black Bean and Corn Salad",
+            "importance_rank": 18
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 8,
+            "section_title": "• 1/4 cup red onion, finely chopped",
+            "importance_rank": 19
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Chicken and Pesto Sandwich",
+            "importance_rank": 20
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Lentil Salad",
+            "importance_rank": 21
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Chickpea and Avocado Sandwich",
+            "importance_rank": 22
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Greek Salad",
+            "importance_rank": 23
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Turkey and Cranberry Wrap",
+            "importance_rank": 24
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Content Block 27 (Page 10)",
+            "importance_rank": 25
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Caprese Salad",
+            "importance_rank": 26
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Chicken and Veggie Skewers",
+            "importance_rank": 27
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 10,
+            "section_title": "Tuna and Avocado Salad",
+            "importance_rank": 28
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 11,
+            "section_title": "• 1/4 cup red onion, finely chopped",
+            "importance_rank": 29
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 11,
+            "section_title": "Veggie Sushi Rolls",
+            "importance_rank": 30
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 11,
+            "section_title": "Spinach and Feta Stuﬀed Pita",
+            "importance_rank": 31
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 12,
+            "section_title": "BBQ Chicken Wrap",
+            "importance_rank": 32
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Couscous Salad",
+            "importance_rank": 33
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 12,
+            "section_title": "Eggplant and Hummus Sandwich",
+            "importance_rank": 34
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 13,
+            "section_title": "• Spread hummus on one slice of bread.",
+            "importance_rank": 35
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Chicken and Mango Salad",
+            "importance_rank": 36
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Veggie and Cheese Quesadilla",
+            "importance_rank": 37
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 13,
+            "section_title": "Chickpea and Spinach Wrap",
+            "importance_rank": 38
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 14,
+            "section_title": "• 1/4 cup spinach, chopped",
+            "importance_rank": 39
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 14,
+            "section_title": "Turkey and Apple Sandwic h",
+            "importance_rank": 40
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 14,
+            "section_title": "Mediterranean Tuna Salad",
+            "importance_rank": 41
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Chicken and Avocado Wrap",
+            "importance_rank": 42
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Lentil and Veggie Wrap Ingredients:",
+            "importance_rank": 43
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Fruit and Nut Bars  \nIngredients:  \n• 1 cup dates, pitted  \n• 1 cup mixed nuts  \n• 1/4 cup dried fruit  \n• 1 tablespoon honey  \nInstructions:  \n• In a food processor, combine dates, mixed nuts, dried fruit, and honey.  \n• Process until the mixture comes together. \n• Press the mixture into a greased baking dish.  \n• Refrigerate for at least 1 hour before cutting into bars.  \n• Store in an airtight container.",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Msemen  \n• Ingredients : \no 2 cups flour  \no 1 cup semolina  \no 1 teaspoon salt  \no 1/4 cup olive oil  \no 1 cup water  \no 1/4 cup butter  \n• Instructions : \no Mix flour, semolina, and salt in a bowl.  \no Add water and knead until smooth.  \no Divide dough into balls and roll out into thin circles.  \no Brush with melted butter and fold into squares.  \no Cook on a hot griddle until golden on both sides.  \no Serve warm.  \n \nMuhammara  \n• Ingredients : \no 2 red bell peppers  \no 1/2 cup walnuts  \no 1/4 cup breadcrumbs  \no 2 cloves garlic  \no 1/4 cup olive oil  \no 1 tablespoon pomegranate molasses  \no 1 teaspoon cumin  \no 1 teaspoon salt  \n• Instructions : \no Roast bell peppers until charred, then peel and seed.  \no Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate \nmolasses, cumin, and salt in a food processor until smooth.  \no Serve with pita bread.  \n \nMutabal  \n• Ingredients : \no 2 eggplants  \no 1/4 cup tahini  \no 1/4 cup lemon juice  \no 2 cloves garlic  \no 1/4 cup olive oil  \no 1 teaspoon salt  \n• Instructions : \no Roast eggplants until soft, then peel and mash.",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Hummus  \n• Ingredients : \no 1 can chickpeas  \no 1/4 cup tahini  \no 1/4 cup lemon juice  \no 2 cloves garlic  \no 1/4 cup  olive oil  \no 1 teaspoon salt  \n• Instructions : \no Drain and rinse chickpeas.  \no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor.  \no Slowly add olive oil while blending until smooth.  \no Serve with a drizzle of olive oil.  \n \nJapchae  \n• Ingredients : \no 8 ounces sweet potato noodles  \no 1/2 pound beef  \no 1 small onion  \no 1 carrot  \no 1 bell pepper  \no 1 cup spinach  \no 2 tablespoons soy sauce  \no 1 tablespoon sesame oil  \no 1 tablespoon sugar  \no 1 tablespoon sesame seeds  \n• Instructions : \no Cook noodles according to package instructions, then drain.  \no Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil \nuntil cooked.  \no Add spinach and cook until wilted.  \no Mix noodles with soy sauce, sugar, and sesame seeds.  \no Combine with cooked beef and vegetables.  \no Serve warm.  \n \nJerk Veg etables  \n• Ingredients : \no 1 cup broccoli  \no 1 cup bell peppers  \no 1 cup zucchini  \no 1 small onion  \no 2 cloves garlic  \no 2 tablespoons jerk seasoning",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "• Instructions : \no Form risotto into balls and stuff with a cube of mozzarella.  \no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs . \no Fry in hot oil until golden.  \no Drain on paper towels and serve warm.  \n \nBaba Ganoush  \n• Ingredients : \no 2 eggplants  \no 1/4 cup tahini  \no 1/4 cup lemon juice  \no 2 cloves garlic  \no 1/4 cup olive oil  \no 1 teaspoon salt  \n• Instructions : \no Roast eggplants until soft, then peel and mash.  \no Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor.  \no Slowly add olive oil while blending until smooth.  \no Serve with a drizzle of olive oil.  \n \nBaked Beans  \n• Ingredients : \no 4 cups cooked navy beans  \no 1 small onion  \no 1/2 cup molasses  \no 1/4 cup brown sugar  \no 1/4 cup ketchup  \no 1 tablespoon mustard  \no 1 teaspoon salt  \no 1/2 teaspoon pepper  \n• Instructions : \no Preheat oven to 350°F (175°C).  \no Sauté diced onion until translucent.  \no Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a \nbaking dish.  \no Bake for 1 hour, stirring occasionally.  \no Serve warm.  \n \nBammy  \n• Ingredients : \no 2 cups grated cassava  \no 1/4 cup coconut milk  \no 1 teaspoon salt",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Oil for frying  \n• Instructions : \no Mix grated cassava with coconut milk and salt.  \no Form mixture into flat cakes.  \no Fry in  hot oil until golden.  \no Drain on paper towels and serve warm.  \n \nBanchan  \n• Ingredients : \no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi  \n• Instructions : \no Prepare each side dish separately.  \no Arrange on small plates.  \no Serve as accompaniments to the main meal.  \n \nBanh Beo  \n• Ingredients : \no 1 cup rice flour  \no 1/2 cup water  \no 1/2 cup coconut milk  \no 1/4 cup shrimp  \no 1/4 cup green onions  \no 1/4 cup fried shallots  \no 1 teaspoon salt  \no 1/2 teaspoon sugar  \n• Instructions : \no Mix rice flour, water, coconut milk, sal t, and sugar to form a batter.  \no Pour batter into small dishes and steam until set.  \no Sauté chopped shrimp and green onions until cooked.  \no Top steamed cakes with shrimp, green onions, and fried shallots.  \no Serve with dipping sauce.  \n \nBanh Xeo  \n• Ingredients : \no 1 cup rice flour  \no 1/2 cup coconut milk  \no 1/2 cup water  \no 1/2 pound shrimp  \no 1/2 pound pork  \no 1 small onion  \no 1/2 cup bean sprouts  \no 1/4 cup green onions  \no 1/4 cup cilantro  \no 1 teaspoon turmeric",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 teaspoon paprika  \no 1 teaspoon salt  \no Oil for frying  \n• Instructions : \no Mix flour, butter, water, and beaten egg to form a dough, then let rest.  \no Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with  \ncumin, paprika, and salt until cooked.  \no Roll out dough and cut into circles.  \no Place a spoonful of filling on each circle and fold to seal.  \no Fry in hot oil until golden.  \no Drain on paper towels and serve warm.  \n \nEscalivada  \n• Ingredients : \no 2 eggplants  \no 2 bell peppers  \no 2 tomatoes  \no 1 small onion  \no 1/4 cup olive oil  \no 1 teaspoon salt  \n• Instructions : \no Preheat oven to 400°F (200°C).  \no Roast eggplants, bell peppers, tomatoes, and onion until tender.  \no Peel and slice vegetables.  \no Arrange on a plate and drizzle with olive oil.  \no Sprinkle wit h salt and serve warm or at room temperature.  \n \nFalafel  \n• Ingredients : \no 1 can chickpeas  \no 1 small onion  \no 2 cloves garlic  \no 1/4 cup parsley  \no 1 teaspoon cumin  \no 1 teaspoon coriander  \no 1 teaspoon salt  \no 1/4 cup flour  \no Oil for frying  \n• Instructions : \no Drain and rinse chickpeas.  \no Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, \nand salt in a food processor.  \no Add flour and mix until combined.  \no Form mixture into balls and fry in hot oil until golden.",
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor.  \no Slowly add olive oil while b lending until smooth.  \no Serve with a drizzle of olive oil.  \n \nNaan  \n• Ingredients : \no 2 1/4 teaspoons active dry yeast  \no 1 teaspoon sugar  \no 1/2 cup warm water  \no 2 1/2 cups flour  \no 1/2 cup yogurt  \no 1/4 cup melted butter  \no 1 teaspoon salt  \n• Instructions : \no Dissolve yeast and sugar in  warm water, let sit until foamy.  \no Mix flour and salt in a bowl, then add yeast mixture, yogurt, and melted butter.  \no Knead until smooth, then let rise until doubled.  \no Divide dough into balls and roll out into circles.  \no Cook on a hot griddle until bubbles form,  then flip and cook the other side.  \no Brush with melted butter and serve warm.  \n \nNom Du Du (Green Papaya Salad)  \n• Ingredients : \no 1 green papaya  \no 2 carrots  \no 1/4 cup peanuts  \no 1/4 cup cilantro  \no 2 tablespoons fish sauce  \no 2 tablespoons lime juice  \no 1 tablespoon sugar  \no 1-2 Tha i chilies  \n• Instructions : \no Peel and shred green papaya and carrots.  \no Crush peanuts and chop cilantro.  \no Mix fish sauce, lime juice, sugar, and sliced chilies in a bowl.  \no Toss shredded papaya, carrots, peanuts, and cilantro with the dressing.  \no Serve chilled.  \n \nNuoc Cham  \n• Ingredients : \no 1/4 cup fish sauce  \no 1/4 cup lime juice  \no 2 tablespoons sugar",
+            "page_number": 13
+        }
+    ]
+}

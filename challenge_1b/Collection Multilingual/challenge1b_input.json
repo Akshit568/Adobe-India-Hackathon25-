@@ -1,0 +1,31 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_multilingual_001",
+        "test_case_name": "multilingual_document_analysis",
+        "description": "Analysis of diverse documents in English, French, Japanese, and Korean."
+    },
+    "documents": [
+        {
+            "filename": "IntroducingTourism.pdf",
+            "title": "Introduction to Tourism"
+        },
+        {
+            "filename": "French.pdf",
+            "title": "Wikipedia: Batman Arkham City and Daily News (French)"
+        },
+        {
+            "filename": "Japnese.pdf",
+            "title": "Irodori: Japanese for Life in Japan Textbook"
+        },
+        {
+            "filename": "Korean.pdf",
+            "title": "Wikipedia: Protection Policy (Korean)"
+        }
+    ],
+    "persona": {
+        "role": "Global Information Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Extract and summarize key concepts, policies, and notable information from diverse international documents."
+    }
+}

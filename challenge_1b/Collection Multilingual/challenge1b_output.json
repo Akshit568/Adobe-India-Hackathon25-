@@ -1,0 +1,1579 @@
+{
+    "metadata": {
+        "input_documents": [
+            "IntroducingTourism.pdf",
+            "French.pdf",
+            "Japnese.pdf",
+            "Korean.pdf"
+        ],
+        "persona": "Global Information Analyst",
+        "job_to_be_done": "Extract and summarize key concepts, policies, and notable information from diverse international documents.",
+        "processing_timestamp": "2025-07-27T21:09:53.555352"
+    },
+    "extracted_sections": [
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 18,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 1
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 18,
+            "section_title": "Travelodge is a good example",
+            "importance_rank": 2
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 1,
+            "section_title": "Content Block 2 (Page 1)",
+            "importance_rank": 3
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 5,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 4
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 25,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 5
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 27,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 6
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 16,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 7
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 1,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 8
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 2,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 9
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 3,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 10
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 4,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 11
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 5,
+            "section_title": "The Snowdonia",
+            "importance_rank": 12
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 6,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 13
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 6,
+            "section_title": "The National Trust owns many areas of  special",
+            "importance_rank": 14
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 7,
+            "section_title": "Beaches",
+            "importance_rank": 15
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 8,
+            "section_title": "Snowdonia National Park",
+            "importance_rank": 16
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 8,
+            "section_title": "Content Block 18 (Page 8)",
+            "importance_rank": 17
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 9,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 18
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 9,
+            "section_title": "St Fagan’s  is a",
+            "importance_rank": 19
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 9,
+            "section_title": "Cardiff Castle is one of many castles",
+            "importance_rank": 20
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 10,
+            "section_title": "Accommodation",
+            "importance_rank": 21
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 11,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 22
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 12,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 23
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 13,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 24
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 13,
+            "section_title": "Lodges and motels",
+            "importance_rank": 25
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 14,
+            "section_title": "Hostels",
+            "importance_rank": 26
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 15,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 27
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 15,
+            "section_title": "Purpose -built holiday",
+            "importance_rank": 28
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 17,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 29
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 17,
+            "section_title": "easyJet was one of the first",
+            "importance_rank": 30
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 17,
+            "section_title": "Airlines",
+            "importance_rank": 31
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 19,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 32
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 19,
+            "section_title": "Tour Operators",
+            "importance_rank": 33
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 20,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 34
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 20,
+            "section_title": "Package holidays are attractive",
+            "importance_rank": 35
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 20,
+            "section_title": "Content Block 46 (Page 20)",
+            "importance_rank": 36
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 21,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 37
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 21,
+            "section_title": "Domestic tour operators generally",
+            "importance_rank": 38
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 22,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 39
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 22,
+            "section_title": "Content Block 50 (Page 22)",
+            "importance_rank": 40
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 23,
+            "section_title": "Thomas Cook is",
+            "importance_rank": 41
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 23,
+            "section_title": "Content Block 54 (Page 23)",
+            "importance_rank": 42
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 24,
+            "section_title": "Content Block 56 (Page 24)",
+            "importance_rank": 43
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 26,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 44
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 26,
+            "section_title": "Train operating",
+            "importance_rank": 45
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 27,
+            "section_title": "Coaches can be used by tour groups to",
+            "importance_rank": 46
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 28,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 47
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 28,
+            "section_title": "Car hire companies",
+            "importance_rank": 48
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 29,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 49
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 30,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 50
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 31,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 51
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 32,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 52
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 33,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 53
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "page_number": 34,
+            "section_title": "Introduction to Tourism",
+            "importance_rank": 54
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 1,
+            "section_title": "Bienvenue sur Wikipédia",
+            "importance_rank": 1
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 2,
+            "section_title": "Content Block 2 (Page 2)",
+            "importance_rank": 2
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 3,
+            "section_title": "Juillet 2025  · Wikinews  · Modifier",
+            "importance_rank": 3
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 4,
+            "section_title": "Content Block 4 (Page 4)",
+            "importance_rank": 4
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 5,
+            "section_title": "Éphéméride détaillée du 22 juillet  · Archives  · Modifier",
+            "importance_rank": 5
+        },
+        {
+            "document": "French.pdf",
+            "page_number": 6,
+            "section_title": "Ce document provient de « https://fr.wikipedia.org/w/index.php?",
+            "importance_rank": 6
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 123,
+            "section_title": "第　  　　 課18何かプレ ゼントをあげません か？交際▶トピック",
+            "importance_rank": 1
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 29,
+            "section_title": "第　  　　 課10ホチキス 貸してください毎日の生活▶トピック",
+            "importance_rank": 2
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 55,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 3
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 94,
+            "section_title": "第　  　　 課10日本語 教室に参加したいんですが …日本語学習▶トピック",
+            "importance_rank": 4
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 45,
+            "section_title": "第　  　　 課14大きな建物ですね街を歩く▶トピック",
+            "importance_rank": 5
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 131,
+            "section_title": "3第　  　　 課 アレルギーがあるので、 食べられ ないんですレストランで▶トピック",
+            "importance_rank": 6
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 93,
+            "section_title": "第　  　　 課10日本語 教室に参加したいんですが …日本語学習▶トピック",
+            "importance_rank": 7
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 175,
+            "section_title": "第　  　　 課16地震が来ても、あわてて 動かないでください自然と環境▶トピック",
+            "importance_rank": 8
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 177,
+            "section_title": "第　  　　 課17日本語 が前より話せるようになりました私の人生▶トピック",
+            "importance_rank": 9
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 46,
+            "section_title": "第　  　　 課14大きな建物ですね街を歩く▶トピック",
+            "importance_rank": 10
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 128,
+            "section_title": "2第　  　　 課 まじめそうな 人ですね私の周りの人たち▶トピック",
+            "importance_rank": 11
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 1,
+            "section_title": "第　  　　 課3よろしくお願いします私のこと▶トピック",
+            "importance_rank": 12
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 2,
+            "section_title": "第　  　　 課3よろしくお願いします私のこと▶トピック",
+            "importance_rank": 13
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 3,
+            "section_title": "第　  　　 課3よろしくお願いします私のこと▶トピック",
+            "importance_rank": 14
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 4,
+            "section_title": "第　  　　 課3よろしくお願いします私のこと▶トピック",
+            "importance_rank": 15
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 5,
+            "section_title": "第　  　　 課4東 京に住んでいます私のこと▶トピック",
+            "importance_rank": 16
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 6,
+            "section_title": "第　  　　 課4東 京に住んでいます私のこと▶トピック",
+            "importance_rank": 17
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 7,
+            "section_title": "第　  　　 課4東 京に住んでいます私のこと▶トピック",
+            "importance_rank": 18
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 8,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 19
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 9,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 20
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 10,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 21
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 11,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 22
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 12,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 23
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 13,
+            "section_title": "第　  　　 課5うどんが 好きです好きな食べ物▶トピック",
+            "importance_rank": 24
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 14,
+            "section_title": "第　  　　 課6チ ーズバーガーください好きな食べ物▶トピック",
+            "importance_rank": 25
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 15,
+            "section_title": "第　  　　 課6チ ーズバーガーください好きな食べ物▶トピック",
+            "importance_rank": 26
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 16,
+            "section_title": "第　  　　 課6チ ーズバーガーください好きな食べ物▶トピック",
+            "importance_rank": 27
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 17,
+            "section_title": "第　  　　 課7部屋が 4 つあります家と職場▶トピック",
+            "importance_rank": 28
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 18,
+            "section_title": "第　  　　 課7部屋が 4 つあります家と職場▶トピック",
+            "importance_rank": 29
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 19,
+            "section_title": "第　  　　 課7部屋が 4 つあります家と職場▶トピック",
+            "importance_rank": 30
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 20,
+            "section_title": "第　  　　 課7部屋が 4 つあります家と職場▶トピック",
+            "importance_rank": 31
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 21,
+            "section_title": "第　  　　 課8山 田さん はどこにいます か？家と職場▶トピック",
+            "importance_rank": 32
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 22,
+            "section_title": "第　  　　 課8山 田さん はどこにいます か？家と職場▶トピック",
+            "importance_rank": 33
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 23,
+            "section_title": "第　  　　 課8山 田さん はどこにいます か？家と職場▶トピック",
+            "importance_rank": 34
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 24,
+            "section_title": "第　  　　 課8山 田さん はどこにいます か？家と職場▶トピック",
+            "importance_rank": 35
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 25,
+            "section_title": "第　  　　 課8山 田さん はどこにいます か？家と職場▶トピック",
+            "importance_rank": 36
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 26,
+            "section_title": "第　  　　 課912 時から 1 時まで昼休みです毎日の生活▶トピック",
+            "importance_rank": 37
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 27,
+            "section_title": "第　  　　 課912 時から 1 時まで昼休みです毎日の生活▶トピック",
+            "importance_rank": 38
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 28,
+            "section_title": "第　  　　 課10ホチキス 貸してください毎日の生活▶トピック",
+            "importance_rank": 39
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 30,
+            "section_title": "第　  　　 課10ホチキス 貸してください毎日の生活▶トピック",
+            "importance_rank": 40
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 31,
+            "section_title": "第　  　　 課10ホチキス 貸してください毎日の生活▶トピック",
+            "importance_rank": 41
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 32,
+            "section_title": "第　  　　 課11どん な マンガが 好きです か？私の好きなこと▶トピック",
+            "importance_rank": 42
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 33,
+            "section_title": "第　  　　 課11どん な マンガが 好きです か？私の好きなこと▶トピック",
+            "importance_rank": 43
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 34,
+            "section_title": "第　  　　 課11どん な マンガが 好きです か？私の好きなこと▶トピック",
+            "importance_rank": 44
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 35,
+            "section_title": "第　  　　 課11どん な マンガが 好きです か？私の好きなこと▶トピック",
+            "importance_rank": 45
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 36,
+            "section_title": "第　  　　 課12いっしょに飲みに行きませんか ？私の好きなこと▶トピック",
+            "importance_rank": 46
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 37,
+            "section_title": "第　  　　 課12いっしょに飲みに行きませんか ？私の好きなこと▶トピック",
+            "importance_rank": 47
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 38,
+            "section_title": "第　  　　 課12いっしょに飲みに行きませんか ？私の好きなこと▶トピック",
+            "importance_rank": 48
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 39,
+            "section_title": "第　  　　 課12いっしょに飲みに行きませんか ？私の好きなこと▶トピック",
+            "importance_rank": 49
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 40,
+            "section_title": "第　  　　 課13このバスは空港に行きますか ？街を歩く▶トピック",
+            "importance_rank": 50
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 41,
+            "section_title": "第　  　　 課13このバスは空港に行きますか ？街を歩く▶トピック",
+            "importance_rank": 51
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 42,
+            "section_title": "第　  　　 課13このバスは空港に行きますか ？街を歩く▶トピック",
+            "importance_rank": 52
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 43,
+            "section_title": "第　  　　 課13このバスは空港に行きますか ？街を歩く▶トピック",
+            "importance_rank": 53
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 44,
+            "section_title": "第　  　　 課13このバスは空港に行きますか ？街を歩く▶トピック",
+            "importance_rank": 54
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 47,
+            "section_title": "第　  　　 課14大きな建物ですね街を歩く▶トピック",
+            "importance_rank": 55
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 48,
+            "section_title": "第　  　　 課15電 池 がほしいんですが …店で▶トピック",
+            "importance_rank": 56
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 49,
+            "section_title": "第　  　　 課15電 池 がほしいんですが …店で▶トピック",
+            "importance_rank": 57
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 50,
+            "section_title": "第　  　　 課16こ れ 、 いくらで す か？店で▶トピック",
+            "importance_rank": 58
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 51,
+            "section_title": "第　  　　 課16こ れ 、 いくらで す か？店で▶トピック",
+            "importance_rank": 59
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 52,
+            "section_title": "第　  　　 課16こ れ 、 いくらで す か？店で▶トピック",
+            "importance_rank": 60
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 53,
+            "section_title": "第　  　　 課16こ れ 、 いくらで す か？店で▶トピック",
+            "importance_rank": 61
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 54,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 62
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 56,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 63
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 57,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 64
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 58,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 65
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 59,
+            "section_title": "第　  　　 課17映画を見に行きました休みの日に▶トピック",
+            "importance_rank": 66
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 60,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 67
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 61,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 68
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 62,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 69
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 63,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 70
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 64,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 71
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 65,
+            "section_title": "第　  　　 課18温 泉に入りたいです休みの日に▶トピック",
+            "importance_rank": 72
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 66,
+            "section_title": "第　  　　課1レストランで働いています今の私▶トピック初級1　L1 - 15",
+            "importance_rank": 73
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 67,
+            "section_title": "第　  　　課1レストランで働いています今の私▶トピック初級1　L1 - 16",
+            "importance_rank": 74
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 68,
+            "section_title": "第　  　　課1レストランで働いています今の私▶トピック初級1　L1 - 17",
+            "importance_rank": 75
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 69,
+            "section_title": "第　  　　課1レストランで働いています今の私▶トピック初級1　L1 - 18",
+            "importance_rank": 76
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 70,
+            "section_title": "第　  　　課2ゲームをするのが好きです今の私▶トピック",
+            "importance_rank": 77
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 71,
+            "section_title": "第　  　　課2ゲームをするのが好きです今の私▶トピック",
+            "importance_rank": 78
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 72,
+            "section_title": "第　  　　課2ゲームをするのが好きです今の私▶トピック",
+            "importance_rank": 79
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 73,
+            "section_title": "第　  　　 課3冬はとても 寒くなります季節と天気▶トピック",
+            "importance_rank": 80
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 74,
+            "section_title": "第　  　　 課3冬はとても寒くなります季節と天気▶トピック",
+            "importance_rank": 81
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 75,
+            "section_title": "第　  　　 課3冬はとても 寒くなります季節と天気▶トピック",
+            "importance_rank": 82
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 76,
+            "section_title": "第　  　　 課3冬はとても寒くなります季節と天気▶トピック",
+            "importance_rank": 83
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 77,
+            "section_title": "第　  　　 課4昨日はすごい 雨でしたね季節と天気▶トピック",
+            "importance_rank": 84
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 78,
+            "section_title": "第　  　　 課4昨日はすごい 雨でしたね季節と天気▶トピック",
+            "importance_rank": 85
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 79,
+            "section_title": "第　  　　 課4昨日はすごい 雨でしたね季節と天気▶トピック",
+            "importance_rank": 86
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 80,
+            "section_title": "第　  　　 課5とてもにぎやかで 便利です私の町▶トピック",
+            "importance_rank": 87
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 81,
+            "section_title": "第　  　　 課5とてもにぎやかで 便利です私の町▶トピック",
+            "importance_rank": 88
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 82,
+            "section_title": "第　  　　 課6郵便局 はどう 行ったらいいです か？私の町▶トピック",
+            "importance_rank": 89
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 83,
+            "section_title": "第　  　　 課6郵便局 はどう 行ったらいいです か？私の町▶トピック",
+            "importance_rank": 90
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 84,
+            "section_title": "第　  　　 課7道に迷ってちょっと 遅れますいっしょに出かける▶トピック",
+            "importance_rank": 91
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 85,
+            "section_title": "第　  　　 課7道に迷ってちょっと 遅れますいっしょに出かける▶トピック",
+            "importance_rank": 92
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 86,
+            "section_title": "第　  　　 課8野球、したことありますか？いっしょに出かける▶トピック",
+            "importance_rank": 93
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 87,
+            "section_title": "第　  　　 課8野球、したことありますか？いっしょに出かける▶トピック",
+            "importance_rank": 94
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 88,
+            "section_title": "第　  　　 課8野球、したことありますか？いっしょに出かける▶トピック",
+            "importance_rank": 95
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 89,
+            "section_title": "第　  　　 課8野球、したことありますか？いっしょに出かける▶トピック",
+            "importance_rank": 96
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 90,
+            "section_title": "第　  　　 課9読み方を教えてもらえません か？日本語学習▶トピック",
+            "importance_rank": 97
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 91,
+            "section_title": "第　  　　 課9読み方を教えてもらえません か？日本語学習▶トピック",
+            "importance_rank": 98
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 92,
+            "section_title": "第　  　　 課9読み方を教えてもらえません か？日本語学習▶トピック",
+            "importance_rank": 99
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 95,
+            "section_title": "第　  　　 課10日本語 教室に参加したいんですが …日本語学習▶トピック",
+            "importance_rank": 100
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 96,
+            "section_title": "第　  　　 課11肉と野菜は私が買って行きますおいしい 料理▶トピック",
+            "importance_rank": 101
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 97,
+            "section_title": "第　  　　 課11肉と野菜は私が買って行きますおいしい 料理▶トピック",
+            "importance_rank": 102
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 98,
+            "section_title": "第　  　　 課12お弁当、おいしそうですねおいしい 料理▶トピック",
+            "importance_rank": 103
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 99,
+            "section_title": "第　  　　 課12お弁当、おいしそうですねおいしい 料理▶トピック",
+            "importance_rank": 104
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 100,
+            "section_title": "第　  　　 課12お弁当、おいしそうですねおいしい 料理▶トピック",
+            "importance_rank": 105
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 101,
+            "section_title": "第　  　　 課12お弁当、おいしそうですねおいしい 料理▶トピック",
+            "importance_rank": 106
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 102,
+            "section_title": "第　  　　 課13あと10分ぐらいで 終わりそうです仕事の連絡▶トピック",
+            "importance_rank": 107
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 103,
+            "section_title": "第　  　　 課13あと10分ぐらいで 終わりそうです仕事の連絡▶トピック",
+            "importance_rank": 108
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 104,
+            "section_title": "第　  　　 課13あと10分ぐらいで 終わりそうです仕事の連絡▶トピック",
+            "importance_rank": 109
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 105,
+            "section_title": "第　  　　 課13あと10分ぐらいで 終わりそうです仕事の連絡▶トピック",
+            "importance_rank": 110
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 106,
+            "section_title": "第　  　　 課14休みを 取ってもいいでしょうか？仕事の連絡▶トピック",
+            "importance_rank": 111
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 107,
+            "section_title": "第　  　　 課14休みを 取ってもいいでしょうか？仕事の連絡▶トピック",
+            "importance_rank": 112
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 108,
+            "section_title": "第　  　　 課14休みを 取ってもいいでしょうか？仕事の連絡▶トピック",
+            "importance_rank": 113
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 109,
+            "section_title": "第　  　　 課14休みを 取ってもいいでしょうか？仕事の連絡▶トピック",
+            "importance_rank": 114
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 110,
+            "section_title": "第　  　　 課15熱があってのどが 痛いんです健康な生活▶トピック",
+            "importance_rank": 115
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 111,
+            "section_title": "第　  　　 課15熱があってのどが 痛いんです健康な生活▶トピック",
+            "importance_rank": 116
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 112,
+            "section_title": "第　  　　 課15熱があってのどが 痛いんです健康な生活▶トピック",
+            "importance_rank": 117
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 113,
+            "section_title": "第　  　　 課15熱があってのどが 痛いんです健康な生活▶トピック",
+            "importance_rank": 118
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 114,
+            "section_title": "第　  　　 課15熱があってのどが 痛いんです健康な生活▶トピック",
+            "importance_rank": 119
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 115,
+            "section_title": "第　  　　 課16食べすぎないようにしています健康な生活▶トピック",
+            "importance_rank": 120
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 116,
+            "section_title": "第　  　　 課16食べすぎないようにしています健康な生活▶トピック",
+            "importance_rank": 121
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 117,
+            "section_title": "第　  　　 課17兄がくれたお 守りです交際▶トピック",
+            "importance_rank": 122
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 118,
+            "section_title": "第　  　　 課17兄がくれたお 守りです交際▶トピック",
+            "importance_rank": 123
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 119,
+            "section_title": "第　  　　 課17兄がくれたお 守りです交際▶トピック",
+            "importance_rank": 124
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 120,
+            "section_title": "第　  　　 課18何かプレ ゼントをあげません か？交際▶トピック",
+            "importance_rank": 125
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 121,
+            "section_title": "第　  　　 課18何かプレ ゼントをあげません か？交際▶トピック",
+            "importance_rank": 126
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 122,
+            "section_title": "第　  　　 課18何かプレ ゼントをあげません か？交際▶トピック",
+            "importance_rank": 127
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 124,
+            "section_title": "1第　  　　 課 先週、日本に来たばかりです私の周りの人たち▶トピック",
+            "importance_rank": 128
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 125,
+            "section_title": "1先週、日本に来たばかりです私の周りの人たち▶トピック",
+            "importance_rank": 129
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 126,
+            "section_title": "1第　  　　 課 先週、日本に来たばかりです私の周りの人たち▶トピック",
+            "importance_rank": 130
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 127,
+            "section_title": "2第　  　　 課 まじめそうな 人ですね私の周りの人たち▶トピック",
+            "importance_rank": 131
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 129,
+            "section_title": "2第　  　　 課 まじめそうな 人ですね私の周りの人たち▶トピック",
+            "importance_rank": 132
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 130,
+            "section_title": "3第　  　　 課 アレルギーがあるので、 食べられ ないんですレストランで▶トピック",
+            "importance_rank": 133
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 132,
+            "section_title": "3第　  　　 課 アレルギーがあるので、 食べられ ないんですレストランで▶トピック",
+            "importance_rank": 134
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 133,
+            "section_title": "4第　  　　 課 しょうゆをつけないで 食べ てくださいレストランで▶トピック",
+            "importance_rank": 135
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 134,
+            "section_title": "4第　  　　 課 しょうゆをつけないで 食べ てくださいレストランで▶トピック",
+            "importance_rank": 136
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 135,
+            "section_title": "4第　  　　 課 しょうゆをつけないで 食べ てくださいレストランで▶トピック",
+            "importance_rank": 137
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 136,
+            "section_title": "5第　  　　課 早く予 約した ほうが いいで すよ旅行に行こう▶トピック",
+            "importance_rank": 138
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 137,
+            "section_title": "5第　  　　課 早く予 約した ほうが いいで すよ旅行に行こう▶トピック",
+            "importance_rank": 139
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 138,
+            "section_title": "5第　  　　課 早く予 約した ほうが いいで すよ旅行に行こう▶トピック",
+            "importance_rank": 140
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 139,
+            "section_title": "5第　  　　課 早く予 約した ほうが いいで すよ旅行に行こう▶トピック",
+            "importance_rank": 141
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 140,
+            "section_title": "6第　  　　課 いろいろなところに行けて、よかったです旅行に行こう▶トピック",
+            "importance_rank": 142
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 141,
+            "section_title": "6第　  　　課 いろいろなところに行けて、よかったです旅行に行こう▶トピック",
+            "importance_rank": 143
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 142,
+            "section_title": "6第　  　　課 いろいろなところに行けて、よかったです旅行に行こう▶トピック",
+            "importance_rank": 144
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 143,
+            "section_title": "7第　  　　課 雨が降ったら、ホールでやります地域のイベント▶トピック",
+            "importance_rank": 145
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 144,
+            "section_title": "7第　  　　課 雨が降ったら、ホールでやります地域のイベント▶トピック",
+            "importance_rank": 146
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 145,
+            "section_title": "7第　  　　課 雨が降ったら、ホールでやります地域のイベント▶トピック",
+            "importance_rank": 147
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 146,
+            "section_title": "7第　  　　課 雨が降ったら、ホールでやります地域のイベント▶トピック",
+            "importance_rank": 148
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 147,
+            "section_title": "8第　  　　課 屋 台 はどこか わ かります か？地域のイベント▶トピック",
+            "importance_rank": 149
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 148,
+            "section_title": "8第　  　　課 屋 台 はどこか わ かります か？地域のイベント▶トピック",
+            "importance_rank": 150
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 149,
+            "section_title": "9第　  　　 課 成人の日は、 何をするんです か？年中行事とマナー▶トピック",
+            "importance_rank": 151
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 150,
+            "section_title": "9第　  　　 課 成人の日は、 何をするんです か？年中行事とマナー▶トピック",
+            "importance_rank": 152
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 151,
+            "section_title": "9第　  　　 課 成人の日は、 何をするんです か？年中行事とマナー▶トピック",
+            "importance_rank": 153
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 152,
+            "section_title": "9第　  　　 課 成人の日は、 何をするんです か？年中行事とマナー▶トピック",
+            "importance_rank": 154
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 153,
+            "section_title": "9第　  　　 課 成人の日は、 何をするんです か？年中行事とマナー▶トピック",
+            "importance_rank": 155
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 154,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 156
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 155,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 157
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 156,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 158
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 157,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 159
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 158,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 160
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 159,
+            "section_title": "10第　  　　 課 どんな 服を着て行けば いいです か？年中行事とマナー▶トピック",
+            "importance_rank": 161
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 160,
+            "section_title": "11第　  　　 課 ポイントカードを 忘れてしまいました上手な買い物▶トピック",
+            "importance_rank": 162
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 161,
+            "section_title": "11第　  　　 課 ポイントカードを 忘れてしまいました上手な買い物▶トピック",
+            "importance_rank": 163
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 162,
+            "section_title": "11第　  　　 課 ポイントカードを 忘れてしまいました上手な買い物▶トピック",
+            "importance_rank": 164
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 163,
+            "section_title": "11第　  　　 課 ポイントカードを 忘れてしまいました上手な買い物▶トピック",
+            "importance_rank": 165
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 164,
+            "section_title": "12第　  　　 課 この掃除機 は軽くて動かしや す いで すよ上手な買い物▶トピック",
+            "importance_rank": 166
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 165,
+            "section_title": "12第　  　　 課 この掃除機 は軽くて動かしや す いで すよ上手な買い物▶トピック",
+            "importance_rank": 167
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 166,
+            "section_title": "13第　  　　 課 いろいろな 資料を展示してありますさまざまなサービス▶トピック",
+            "importance_rank": 168
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 167,
+            "section_title": "13第　  　　 課 いろいろな 資料を展示してありますさまざまなサービス▶トピック",
+            "importance_rank": 169
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 168,
+            "section_title": "13第　  　　 課 いろいろな 資料を展示してありますさまざまなサービス▶トピック",
+            "importance_rank": 170
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 169,
+            "section_title": "13第　  　　 課 いろいろな 資料を展示してありますさまざまなサービス▶トピック",
+            "importance_rank": 171
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 170,
+            "section_title": "14第　  　　 課 前髪は 、もう 少し短く切ってもらえます か？さまざまなサービス▶トピック",
+            "importance_rank": 172
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 171,
+            "section_title": "15第　  　　 課 会議室 の電気がついたままでした自然と環境▶トピック",
+            "importance_rank": 173
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 172,
+            "section_title": "15第　  　　 課 会議室 の電気がついたままでした自然と環境▶トピック",
+            "importance_rank": 174
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 173,
+            "section_title": "第　  　　 課16地震が来ても、あわてて 動かないでください自然と環境▶トピック",
+            "importance_rank": 175
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 174,
+            "section_title": "第　  　　 課16地震が来ても、あわてて 動かないでください自然と環境▶トピック",
+            "importance_rank": 176
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 176,
+            "section_title": "第　  　　 課16地震が来ても、あわてて 動かないでください自然と環境▶トピック",
+            "importance_rank": 177
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 178,
+            "section_title": "第　  　　 課17日本語 が前より話せるようになりました私の人生▶トピック",
+            "importance_rank": 178
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 179,
+            "section_title": "第　  　　 課18将来、自分の会社を作ろうと 思います私の人生▶トピック",
+            "importance_rank": 179
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 180,
+            "section_title": "第　  　　 課18将来、自分の会社を作ろうと 思います私の人生▶トピック",
+            "importance_rank": 180
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 181,
+            "section_title": "第　  　　 課18将来、自分の会社を作ろうと 思います私の人生▶トピック",
+            "importance_rank": 181
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 182,
+            "section_title": "第　  　　 課18将来、自分の会社を作ろうと 思います私の人生▶トピック",
+            "importance_rank": 182
+        },
+        {
+            "document": "Japnese.pdf",
+            "page_number": 183,
+            "section_title": "第　  　　 課18将来、自分の会社を作ろうと 思います私の人生▶トピック",
+            "importance_rank": 183
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 1,
+            "section_title": "위키백과:보호 정책",
+            "importance_rank": 1
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 2,
+            "section_title": "위키백과  관리",
+            "importance_rank": 2
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 3,
+            "section_title": "생성 보호",
+            "importance_rank": 3
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 4,
+            "section_title": "Content Block 4 (Page 4)",
+            "importance_rank": 4
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 5,
+            "section_title": "완전 보호되는  문서는  동시에  이동  보호도  적용됩니다 .",
+            "importance_rank": 5
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 6,
+            "section_title": "Content Block 6 (Page 6)",
+            "importance_rank": 6
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 7,
+            "section_title": "Content Block 7 (Page 7)",
+            "importance_rank": 7
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 8,
+            "section_title": "Content Block 8 (Page 8)",
+            "importance_rank": 8
+        },
+        {
+            "document": "Korean.pdf",
+            "page_number": 9,
+            "section_title": "Content Block 9 (Page 9)",
+            "importance_rank": 9
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "IntroducingTourism.pdf",
+            "refined_text": "Introduction to Tourism  \n \nTour operators \nTour operators are making increasing use of the Internet to sell \nholidays and other travel products.  Traditionally, tour operators have used brochures to give their customers information about the \ndestinations they might choose for their holiday.  However, brochures are increasing ly expensive to produce and cannot give up -to-date \ninformation.  Also, it is now possible to give ‘virtual tours’ of hotels and \ndestinations through websites.  So , although major tour operators still \nsell holidays through travel agents and their high stree t shops, the \nInternet is increasingly important to them. \nAccommodation providers  \nAs with airlines, all major hotels have websites which allow people to \nmake reservations and check if the type of room they want is available.  \nThe cost of the room and other information about the hotel can also be displayed on the website.",
+            "page_number": 18
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "refined_text": "Travelodge is a good example \nof an accommodation provider \nwhich relies heavily on website \nbookings.  \n \nMore recently, specialised on -line organisations have been set up which \nallows tou rists to compare the range of accommodation available at a \ndestination before making a booking.  These organisations make a \nprofit by charging a commission to the accommodation provider.  Well -\nknown examples are booking.com  and hotels.com .  Another \ndevelopment is websites where tourists are encouraged to give a review \nor rating to a hotel they have used.  This enables those people looking \nfor accommodation to get further information about the hotel they \nmight book.  One of the most used websites of this typ e is \ntripadvisor.com.   \n \n18",
+            "page_number": 18
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "refined_text": "People also travel to take part in leisure activities.  Often this is only a \nshort journey to a football pitch, town centre, sports stadium, leisure \ncentre or other facility.  This travel often takes place by road transport \nin private cars or by bus.  \nAlso, longer and less regular journeys are made for leisure purposes.  \nThese include trips to watch larger sporting events, theatre trips or \nshopping trips to larger cities.  These may involve private cars or train journeys.  Larger groups may decide to t ravel by coach, such as a \ngroup of people travelling to watch an international rugby match in \nCardiff.",
+            "page_number": 1
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "refined_text": "Introduction to Tourism  \n \nNon-commercial  organisations do not aim to make a profi t, they exist \nto provide services to customers.  For example, most country parks are \noperated by local councils who provide leisure opportunities for people \nliving in the area.   \n Non-commercial  organisations can be further sub- divided into:  \n• Public sector organisations  \n• Voluntary organisations  \n \nPublic sector organisations  \nLarger leisure facilities, such as Tourist Boards and National Parks are \nalso public -sector organisations.  Each National Park Authority receives \na sum of money from central government whic h it must use for the \nupkeep of the park.  This money must be used to pay for items such as:  \n• Visitor centres  \n• Information printed for visitors  \n• The upkeep of footpaths  \n• Schemes to support sustainable tourism  \n• The education service provided by the National Park  \n• The salaries and wages of the people employed by the National \nPark",
+            "page_number": 5
+        },
+        {
+            "document": "Japnese.pdf",
+            "refined_text": "第　  　　 課18何かプレ ゼントをあげません か？交際▶トピック\n©The Japan Foundation初級1　L18 - 23➌S （plain-form\t\t 普ふつうけい\n通形）と言い\nっていました\nアナさん、 前まえ\nに、焼や\nき鳥とり\nが大だい\n好す\nきだと言い\nっていました。\nI heard Ana-san say that she loves yakitori.\n- This expression is used to share with others what people said.\n- と is a particle used to quote details said by others. The plain-form is used for the quoted sentence.\n- The information source of ～そうです  can be anything from the TV or newspaper to the Internet. In contrast, \nwhen you say ～と言い\nっていました , the information source is limited to what you have heard directly from someone.\n•\t人が言ったことを、ほかの 人に伝えるときの 言い方です。\n•\t「と」は 引用を示す助詞です。人が言ったことの 内容を 「と」を 使って引用しますが、そのとき、 引用文は普通形を使います。\n•\t「～そうです」の 情報源は 、テ レ ビ や 新聞、 ネットなどで 見聞きしたことなど、 なんでもかまわないのに 対し て 、「 ～ と 言っていました」\nの場合は、自分が直接聞いたことに 限られます。\n［\t例れい\n\t］\t▶ Ａ ： さ っ き 、 山やまだ\n田さんから 電でんわ\n話がありましたよ。\n You had a phone call from Yamada-san earlier.\n  Ｂ ： 何なに\nか言い\nってましたか？\n What did he say?\n  Ａ ： ま た あ と で 電でんわ\n話すると 言い\nってました。\n He said he would call you again later.\nS （plain-form\t\t 普ふつうけい\n通形）と思おも\nいます\nもっと、思おも\nい出で\nに残のこ\nるものがいいと 思おも\nいます。\nI think it will be better to give her something more memorable.\n- This expression is used to express one’s opinion or judgment.\n- The particle と is used to indicate the detail of 思おも\nいます  (思おも\nう) (I think). Use the plain-form for quoted sentences \nusing と.\n•\t自分の意見や判断を表す言い方です。\n•\t「思います（思う ）」 の内容を、助詞「と」を使って示します。 「と」で 引用される文は普通形を使います。\n［\t例れい\n\t］\t▶ Ａ ： 明あした\n日のパーティーは 何なんにん\n人ぐらい 来き\nますか？\n How many people are coming to the party tomorrow?\n　  Ｂ ： 10人にん\nぐらいだと 思おも\nいます。\n I think about ten people.\n　  Ａ ： 佐さとう\n藤さん、 来く\nるでしょうか？\n Will Sato-san come?\n　  Ｂ ： 忙いそが\nしいと 言い\nっていましたから、 来こ\nないと 思おも\nいますよ。\n I heard that he was busy, so I doubt that he will come.➍",
+            "page_number": 123
+        },
+        {
+            "document": "IntroducingTourism.pdf",
+            "refined_text": "Introduction to Tourism  \n \nBusiness travel agents specialise in selling flights, hotel \naccommodation and other products to business travellers.  \nBusiness travel involves travelling for meetings, attending conferences, \ntaking part in trade fairs and exhibitions.  It also includes ‘incentive \ntravel’ where travel opportunities are provided for workers as prizes for \nmeeting targets or for other rewards.  \nBusiness travel agencies offer specialised services, such as dealing with \nhigh-spending clients who have specific needs or providing complex \nitineraries at short notice.   \nToday more travel products are sold through call centres,  which is a \nnew way of booking holidays and purchasing other travel products.  They have grown with the introd uction of teletext and television travel \nchannels.  Clients are able to dial a telephone number and discuss their \ntravel requirements with a travel agent counsellor over the telephone. \nOnce a holiday has been arranged, payment can be made by credit \ncard. \nOn-line travel agents  have grown because of the  increased availability \nof the internet. These companies, including Last Minute.com , \nExpedia  and Travelocity,  have vast databases linked to airline and \naccommodation providers which can offer information on pr ices and \nschedules within seconds.   \nOn-line travel agents have seen tremendous growth in recent years and \nare likely to be the way in which most travel products are sold in the \nfuture.",
+            "page_number": 25
+        },
+        {
+            "document": "Japnese.pdf",
+            "refined_text": "第　  　　 課10ホチキス 貸してください毎日の生活▶トピック\n©The Japan Foundation入門　L10 - 20 ▶ Ａ ： ち ょっ と 、 待ま\nって。\n Wait a minute.\n  Ｂ ： は い 。\n OK.\n ▶ Ａ ： す み ま せ ん 。 塩しお\n、取と\nってくれる？\n Excuse me. Could you pass the salt?\n  Ｂ ： ど う ぞ 。\n Here you are.\n➋Ｎですね　＜Confirmation\t\t 確かくにん\n認＞\nＡ：\tこれ、コピー、30 枚まい\nお願ねが\nい。\n Please make 30 copies of this.\nＢ：\tはい、30 ですね。\n Right, 30 copies.\n- This expression is used to check some information. In this lesson, it is used to confirm instructions.\n- When you want to confirm something, add ですね  to what you want to check. The ね at the end of the sentence \nindicates confirmation to the other person.\n- When you don’t understand well about the instructions, such as the amount or time, ask again using inter -\nrogative expressions such as  いくつ  (how many) or 何なんじ\n時 (what time) ( →Lesson 4 ➋).\n•\t 情報を確認するときの言い方です。この課では、指示された内容を確認するときに使っています。\n•\t 確認したいことのあとに 「ですね」をつけて言います。文末の「ね」は相手への確認を表します。\n•\t 数や時間など、指示の内容がよくわからないときは、 「いくつ」 「何時」などの疑問表現を使って聞き返します （→第 4課 ➋）。\n［\t例れい\n\t］\t▶ Ａ ： こ れ 、 今きょう\n日の午ごご\n後5時じ\nまでにお 願ねが\nいします。\n Please do this by 5 pm today.\n  Ｂ ： はい、5 時じ\nですね。\n OK, by 5.\n\t▶ Ａ ： 会かいぎ\n議は、1 時じ\nからです。\n The meeting is from 1.\n  Ｂ ： す み ま せ ん 。 何なんじ\n時ですか？\n Excuse me. What time?\n  Ａ ： 1時じ\n。13時じ\nです。\n At 1. 13:00.example",
+            "page_number": 29
+        },
+        {
+            "document": "Japnese.pdf",
+            "refined_text": "第　  　　 課17映画を見に行きました休みの日に▶トピック\n©The Japan Foundation入門　L17 - 20➋何なに\nも\nどこにも\tV- ませんでした\n週しゅうまつ\n末は、何なに\nもしませんでした。\nI didn’t do anything on the weekend.\n私わたし\nは、どこにも 行い\nきませんでした。\nI didn’t go anywhere.\n- These expressions are used to add emphasis to a negative sentence. In this lesson, they are used to answer \nquestions about what you did on your day off.\n- 何なに\nも is used together with the negative form of a verb and means that you do / did nothing.\n- どこにも  is used together with the negative form of the verb 行い\nく (to go) and indicates that you do / did not go \nanywhere.\n•\t 強く否定するときの言い方です。この課では、休みの日にしたことを質問されて答えるときに使っています。\n•\t「何も」は動詞の否定形といっしょに使い、しないことを表します。\n•\t「どこにも」は動詞「行く」の否定形といっしょに使い、行かないことを表します。\n［\t例れい\n\t］\t▶ Ａ ： 休やす\nみは、 何なに\nをしましたか？\n Did you do anything on your day off?\n  Ｂ ： 何なに\nもしませんでした。 家いえ\nでゆっくりしました。\n I did nothing. I relaxed at home.\n\t▶ Ａ ： 連れんきゅう\n休は、どこに 行い\nきましたか？\n Did you go anywhere on the long weekend?\n  Ｂ ： ど こ に も 行い\nきませんでした。 家いえ\nで本ほん\nを読よ\nみました。\n I didn’t go anywhere. I read a book at home.\n➌ナ A-でした\nイ A- かったです\n「ゴジラ」は、まあまあでした。\nGodzilla was OK.\n国こくさい\n際フェスティバルは、とても 楽たの\nしかったです。\nThe international festival was a lot of fun.\n- These expressions are used to talk about impressions of past events. In this lesson, they are used to express \nyour thoughts about your day off.\n- These expressions use the past tense of an adjective. With ナ-adjectives, change the ending from 〜です  to 〜でし\nた. With イ-adjectives, change the ending from 〜いです  to 〜かったです . いい (good) is a special case, and its past \ntense is よかったです .example",
+            "page_number": 55
+        },
+        {
+            "document": "Japnese.pdf",
+            "refined_text": "第　  　　 課10日本語 教室に参加したいんですが …日本語学習▶トピック\n©The Japan Foundation初級1　L10 - 17➌\n➍V- ましょうか？\n教きょうしつ\n室のチラシを 持も\nって来き\nましょうか？\nWould you like me to bring you a flyer for the class?\n- This expression is used to offer assistance to someone. In this example, one person is offering to bring a flyer \nfor the other person who wants to have detailed information about Japanese-language classes.\n- Change V- ます to V-ましょうか?\n•\t相手に何かを申し出るときの言い方です。ここでは、 日本語教室についてくわしい 情報がほしい人に対して、チラシを 持って来\nることを申し出ています。\n•\t「V-ます」を 「V-ましょうか？」に 変えます。\n［\t例れい\n\t］\t▶ Ａ \t：\t よ か っ た ら 、 手て\n伝つだ\nいましょうか？\n I will help you if you’d like.\n\t \t Ｂ\t ：\tありがとうございます。\n Thank you.\nAsking\tagain\t\t 聞き\nき返かえ\nし\nすみません。 「ぼご」は、どういう 意いみ\n味ですか？\nExcuse me. What does ぼご mean?\n- There are two ways of asking again what someone said. ①One is to ask what the person said, and ②the other is \nto ask the meaning of what the person said. Here, ② is used. \n- In this example, the person identified the word they do not understand and used ～はどういう 意いみ\n味ですか？\tto ask \nabout the meaning. ～は何なん\nですか?  can also be used to ask the question. As shown in the  example below, you \ncan ask what someone said by repeating the word you do not understand with rising intonation.\n•\t聞き返しには、①どう 言ったかを聞き返す場合と、②意味を聞き返す場合があります。この 課では、②の 場合を扱います。\n•\t ここでは、わからない 言葉を引用して 「～はどういう意味ですか？」を 使って、意味を聞いています。 「～は何ですか？」を使って、\n聞くこともできます。下の 例のようにわからない 言葉を上昇調で繰り返すことで、 聞き返しをすることもできます。\n［\t例れい\n\t］\t▶ Ａ \t：\t合あいきどう\n気道の道どうぎ\n着、持も\nってますか？\n Do you have a dogi?\n\t \t Ｂ \t：\t ど う ぎ ？\n Dogi ?\n\t \t Ａ \t：\t 合あいきどう\n気道の服ふく\nです。\n It is clothing for aikido .",
+            "page_number": 94
+        },
+        {
+            "document": "Japnese.pdf",
+            "refined_text": "第　  　　 課14大きな建物ですね街を歩く▶トピック\n©The Japan Foundation入門　L14 - 19\n➊\n➋【place\t\t 場ばしょ\n所】に\tN （は） \tありますか？\nこの近ちか\nくに、コンビニはありますか？\nIs there a convenience store near here?\n- This expression is used to ask if something exists. In this lesson, it is used with この近ちか\nくに (near here) to ask \nabout places such as convenience stores and ATMs.\n- When asking a more direct question about where something is, use 〜は、どこにありますか？  or 〜は、どこですか？   \n(examples ② and ③).\n•\t あるかどうかをたずねるときの言い方です。この課では、 「この近くに」を使って、コンビニやATM などの場所を聞くときに使っ\nています。\n•\t 場所をより直接的に質問する場合は、 「～は、どこにありますか？」 「～は、どこですか？」と聞きます（例②③） 。\n［\t例れい\n\t］\t▶ ① Ａ ： すみません。この 近ちか\nくに、 Aエーティーエム\nTMはありますか？\n  Excuse me. Is there an ATM near here?\n   Ｂ ： ええ、この 先さき\nにありますよ。\n  Yes, there’s one just ahead.\n ▶ ② Ａ ： あのう、 自じどうはんばいき\n動販売機 は、 どこにありますか？\n  Excuse me, where are the vending machines?\n   Ｂ ： あ っ ち で す 。\n  They are over there.\n ▶ ③ Ａ ： あのう、トイレは、どこですか ？\n  Excuse me, where is the toilet?\n   Ｂ ： こ の奥おく\nです。\n  It’s in the back.\nＮの 【location\t\t 位いち\n置】に\tいます\n今いま\n、改かいさつ\n札の前まえ\nにいます。\nI’m in front of the ticket gate.\n- This expression is used to specifically say where a person is. In this lesson, it is used to tell someone where \nyou are when trying to meet.\n- Use a landmark to describe your location, such as 改かいさつ\n札 (ticket gate), コンビニ  (convenience store), and インフォ\nメーション  (information counter), plus your position to it, such as 〜の前まえ\n／横よこ\n／中なか\n／後うし\nろ (in front / beside / inside / \nbehind).\n- 〜です  is another way to say 〜にいます . example",
+            "page_number": 45
+        }
+    ]
+}

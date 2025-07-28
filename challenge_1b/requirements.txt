@@ -1,0 +1,4 @@
+PyPDF2==3.0.1
+langdetect==1.0.9
+janome==0.4.2
+pecab==1.0.8
